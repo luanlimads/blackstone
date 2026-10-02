@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.netlify/
+fotos-brutas/
+node_modules/
+logo-original-*.png

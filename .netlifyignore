@@ -1,0 +1,5 @@
+venv/
+.git/
+*.py
+__pycache__/
+fotos-brutas/
